@@ -1,10 +1,5 @@
-hskjhjaxajbajc
-shkcnskcbskb
-cksncksdns
-khjbkjbjkbjb
-knknknbk
-bbjbiuygiss
-juhgijnnoir
-iugikwenfjooie
-iugiuhvoij
-iuoernviupenf
+# This is my zomato landing page clone
+
+## Done with first commit.
+
+## Set Up created here for our applnfgb
